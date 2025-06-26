@@ -1,0 +1,1 @@
+vless://cd2980f2-e327-4114-a432-b266fab9285a@gxfc.life:443?encryption=none&security=tls&type=ws&host=gxfc.life&sni=gxfc.life&fp=chrome&path=/nrxows#grom-VLESS_WS
